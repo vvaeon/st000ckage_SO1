@@ -1,0 +1,55 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body {  
+  background-image: url("img/fondsalon.png");
+  background-size: cover;
+}
+.pc { 
+  position: absolute;
+  top: 185px;
+  left: 1150px;
+}
+.books {
+  position: absolute;
+  top: 65PX;
+  left: 1600px;
+}
+.eye {
+  position: absolute;
+  top: 10px;
+  left: 1800px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
